@@ -1,8 +1,8 @@
 <p align="center">
-<picture>
+  <picture>
     <source srcset="https://uploads-ssl.webflow.com/63b5a9958fccedcf67d716ac/64662df3a5a568fd99e3600c_Squid_Pose_1_White-transparent-slim%201.png" media="(prefers-color-scheme: dark)">
     <img src="https://uploads-ssl.webflow.com/63b5a9958fccedcf67d716ac/64662df3a5a568fd99e3600c_Squid_Pose_1_White-transparent-slim%201.png" alt="Subsquid Logo">
-</picture>
+  </picture>
 </p>
 
 [![docs.rs](https://docs.rs/leptos/badge.svg)](https://docs.subsquid.io/)
@@ -27,9 +27,9 @@ Each quest should be submitted as a private repo and will be reviewed manually. 
 - Insturctions how to run the squid locally
 - Sample Squid queries and the corresponding Subgraph queries
 
-The code should be well documented. The judges will access:
+The code should be well documented. The judges will assess:
 
-- In-line commends where necessary
+- In-line comments where necessary
 - Clarity of the code
 - Performance and optimization (if [batching](https://docs.subsquid.io/basics/batch-processing/)  and [Multicall queries](https://docs.subsquid.io/tutorials/bayc/step-four-optimizations/#using-multicall-for-aggregating-state-queries) are used whenever appropriate)
 
@@ -38,3 +38,4 @@ The code should be well documented. The judges will access:
 - [Quickstart](https://docs.subsquid.io/deploy-squid/quickstart/)
 - [TheGraph Migration guide](https://docs.subsquid.io/migrate/migrate-subgraph/)
 - [ENS Subgraph source code](https://docs.ens.domains/contract-api-reference/subgraphdata)
+
